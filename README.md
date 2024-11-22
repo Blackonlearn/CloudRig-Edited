@@ -1,8 +1,8 @@
 <!-- FEATURES -->
-Contact:
-- [ ] instagram.com/bong.qhi/
-- [ ] threads.net/@bong.qhi
-- [ ] twitter.com/midclips
+## Contact:
+- [ ] https://instagram.com/bong.qhi/
+- [ ] https://threads.net/@bong.qhi
+- [ ] https://twitter.com/midclips
 
 
 # Custom Cloud Rig
