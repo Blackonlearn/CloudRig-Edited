@@ -1,4 +1,9 @@
 <!-- FEATURES -->
+Contact:
+- [ ] instagram.com/bong.qhi/
+- [ ] threads.net/@bong.qhi
+- [ ] twitter.com/midclips
+
 
 # Custom Cloud Rig
 CloudRig is a powerful rigging add-on for Blender, built to extend and enhance the capabilities of the default Rigify add-on. With advanced automation and customizable features, CloudRig allows animators and riggers to create complex, production-ready rigs with ease.
