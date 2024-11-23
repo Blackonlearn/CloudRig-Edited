@@ -11,15 +11,19 @@ This project enhances Blender's CloudRig add-on by introducing the ability to se
 
 
 ## What is it ?
-![SS-CLOUDRIG (2)](https://github.com/user-attachments/assets/3b6f6ad0-cd86-41b9-9771-9e1b28d451bd)![SS-CLOUDRIG](https://github.com/user-attachments/assets/ad8e3969-e828-43fb-965c-cd3aefd5211a)
-
-
 
 https://github.com/user-attachments/assets/ad755d32-01d5-4a48-ba26-870f6a1c4cd2
 
 
 
 #### -> Notice that meta rig and actual rig from Monkey into something entered to the rig name text column
+
+![SS-CLOUDRIG (2)](https://github.com/user-attachments/assets/3b6f6ad0-cd86-41b9-9771-9e1b28d451bd)
+![SS-CLOUDRIG](https://github.com/user-attachments/assets/ad8e3969-e828-43fb-965c-cd3aefd5211a)
+
+
+
+
 
 
 ## Features
